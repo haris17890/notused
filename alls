@@ -27,7 +27,7 @@ elseif game.PlaceId == 11545598432 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/name/main/afs%20x"))()
 ---blair
 elseif game.PlaceId == 6348640020 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/notused/main/Blairv2.lua"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/KSmAavyG"))()
 ---strength simulator
 elseif game.PlaceId == 13680982680 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/notused/main/strength%20simulator.lua"))()
